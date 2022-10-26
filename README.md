@@ -1,5 +1,5 @@
 # Halite-Bot-2016-version-for-Competitive-Programming-Competition
-- First Place C++ Halite Bot 2016 ver. for Competitive Programming Competition hosted by ACS-UPB
+- First Place C++ Halite Bot 2016 ver. for Competitive Programming Competition hosted by ACS-UPB 2022
 - Team project in association with my colleagues : Ripanu Catalin-Alexandru and Bala Alexandru
 - The bot is based on the following strategies:
 - The cells within the occupied terrain will search for the closest border, and if it doesn't exist they will stay in place;
